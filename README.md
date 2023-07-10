@@ -9,7 +9,6 @@
 Откажитесь от магических чисел
 Обязательно учтите год ввода Григорианского календаря
 В коде должны быть один input и один print
-
 :point_right: [Перейти к решению](https://github.com/NatalyaKregel/PYTHON-AUTOMAT-/blob/master/homework_1/task_1.py "Открыть")
 
 
@@ -23,7 +22,6 @@
 Если число не из диапазона, запросите новое число
 Откажитесь от магических чисел
 В коде должны быть один input и один print
-
 :point_right: [Перейти к решению](https://github.com/NatalyaKregel/PYTHON-AUTOMAT-/blob/master/homework_1/task_2.py "Открыть")
 
 
@@ -33,7 +31,6 @@
 у пользователя количество рядов.
 Пример результата:
 Сколько рядов у ёлки? 5
-
 :point_right: [Перейти к решению](https://github.com/NatalyaKregel/PYTHON-AUTOMAT-/blob/master/homework_1/task_3.py "Открыть")
 
 
