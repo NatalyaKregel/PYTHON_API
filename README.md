@@ -9,6 +9,7 @@
 Откажитесь от магических чисел
 Обязательно учтите год ввода Григорианского календаря
 В коде должны быть один input и один print
+
 :point_right: [Перейти к решению](https://github.com/NatalyaKregel/PYTHON-AUTOMAT-/blob/master/homework_1/task_1.py "Открыть")
 
 
@@ -22,6 +23,7 @@
 Если число не из диапазона, запросите новое число
 Откажитесь от магических чисел
 В коде должны быть один input и один print
+
 :point_right: [Перейти к решению](https://github.com/NatalyaKregel/PYTHON-AUTOMAT-/blob/master/homework_1/task_2.py "Открыть")
 
 
@@ -31,6 +33,7 @@
 у пользователя количество рядов.
 Пример результата:
 Сколько рядов у ёлки? 5
+
 :point_right: [Перейти к решению](https://github.com/NatalyaKregel/PYTHON-AUTOMAT-/blob/master/homework_1/task_3.py "Открыть")
 
 
@@ -72,11 +75,13 @@ num = randint(LOWER_LIMIT, UPPER_LIMIT)
 
 # ДОМАШНЕЕ ЗАДАНИЕ №2
 
+
 **Задача №1:**
 
 Напишите программу, которая получает целое число и возвращает его шестнадцатеричное строковое представление. Функцию hex используйте для проверки своего результата.
 
 :point_right: [Перейти к решению](https://github.com/NatalyaKregel/PYTHON-AUTOMAT-/blob/master/Homework_2/task_1.py "Открыть")
+
 
 **Задача №2:**
 
@@ -84,6 +89,7 @@ num = randint(LOWER_LIMIT, UPPER_LIMIT)
 Программа должна возвращать сумму и произведение* дробей. Для проверки своего кода используйте модуль fractions.
 
 :point_right: [Перейти к решению](https://github.com/NatalyaKregel/PYTHON-AUTOMAT-/blob/master/Homework_2/task_2.py "Открыть")
+
 
 **Задача №3:**
 
@@ -117,17 +123,20 @@ num = randint(LOWER_LIMIT, UPPER_LIMIT)
 
 :point_right: [Перейти к решению](https://github.com/NatalyaKregel/PYTHON-AUTOMAT-/blob/master/homework_3/task_1.py "Открыть")
 
+
 **Задача №2:**
 
 Дан список повторяющихся элементов. Вернуть список с дублирующимися элементами. В результирующем списке не должно быть дубликатов.
 
 :point_right: [Перейти к решению](https://github.com/NatalyaKregel/PYTHON-AUTOMAT-/blob/master/homework_3/task_2.py "Открыть")
 
+
 **Задача №3:**
 
 В большой текстовой строке подсчитать количество встречаемых слов и вернуть 10 самых частых. Не учитывать знаки препинания и регистр символов. За основу возьмите любую статью из википедии или из документации к языку.
 
 :point_right: [Перейти к решению](https://github.com/NatalyaKregel/PYTHON-AUTOMAT-/blob/master/homework_3/task_3.py "Открыть")
+
 
 **Задача №4:**
 
