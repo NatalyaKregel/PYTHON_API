@@ -10,7 +10,7 @@
 Обязательно учтите год ввода Григорианского календаря
 В коде должны быть один input и один print
 
-:point_right: [Перейти к решению](https://github.com/NatalyaKregel/PYTHON-AUTOMAT-/blob/master/homework_1/task_1.py "Открыть")
+:point_right: [Перейти к решению](https://github.com/NatalyaKregel/PYTHON-AUTOMAT-/blob/master/homework_1/task_2.py) "Открыть")
 
 **Задача №2**
 Пользователь вводит число от 1 до 999. Используя операции с числами
