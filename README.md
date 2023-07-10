@@ -10,7 +10,7 @@
 Обязательно учтите год ввода Григорианского календаря
 В коде должны быть один input и один print
 
-:point_right: [Перейти к решению](https://github.com/NatalyaKregel/PYTHON-AUTOMAT-/blob/master/homework_1/task_2.py "Открыть")
+:point_right: [Перейти к решению](https://github.com/NatalyaKregel/PYTHON-AUTOMAT-/blob/master/homework_1/task_1.py "Открыть")
 
 **Задача №2**
 Пользователь вводит число от 1 до 999. Используя операции с числами
@@ -22,19 +22,20 @@
 Откажитесь от магических чисел
 В коде должны быть один input и один print
 
+:point_right: [Перейти к решению](https://github.com/NatalyaKregel/PYTHON-AUTOMAT-/blob/master/homework_1/task_2.py "Открыть")
+
 **Задача №3**
 Нарисовать в консоли ёлку спросив
 у пользователя количество рядов.
 Пример результата:
 Сколько рядов у ёлки? 5
- *
- ***
- *****
- *******
-*********
+
+:point_right: [Перейти к решению](https://github.com/NatalyaKregel/PYTHON-AUTOMAT-/blob/master/homework_1/task_3.py "Открыть")
 
 **Задача №4**
 Выведите в консоль таблицу умножения от 2х2 до 9х10 как на школьной тетрадке.
+
+:point_right: [Перейти к решению](https://github.com/NatalyaKregel/PYTHON-AUTOMAT-/blob/master/homework_1/task_4.py "Открыть")
 
 **Задача №5**
 Треугольник существует только тогда, когда сумма любых двух его сторон больше третьей. Дано a, b, c —
@@ -43,10 +44,14 @@
 с такими сторонами не существует. Отдельно сообщить является ли треугольник разносторонним,
 равнобедренным или равносторонним.
 
+:point_right: [Перейти к решению](https://github.com/NatalyaKregel/PYTHON-AUTOMAT-/blob/master/homework_1/task_5.py "Открыть")
+
 **Задача №6**
 Напишите код, который запрашивает число и сообщает является ли оно простым или составным.
 Используйте правило для проверки: «Число является простым, если делится нацело только на единицу
 и на себя». Сделайте ограничение на ввод отрицательных чисел и чисел больше 100 тысяч.
+
+:point_right: [Перейти к решению](https://github.com/NatalyaKregel/PYTHON-AUTOMAT-/blob/master/homework_1/task_6.py "Открыть")
 
 **задача №7**
 Программа загадывает число от 0 до 1000. Необходимо угадать число за 10 попыток. 
@@ -54,6 +59,8 @@
 числа используйте код:
 from random import randint
 num = randint(LOWER_LIMIT, UPPER_LIMIT) 
+
+:point_right: [Перейти к решению](https://github.com/NatalyaKregel/PYTHON-AUTOMAT-/blob/master/homework_1/task_7.py "Открыть")
 
 # УРОК 2
 Задача 1. 
